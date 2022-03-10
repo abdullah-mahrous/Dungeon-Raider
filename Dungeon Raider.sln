@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dungeon Raider", "Dungeon Raider.csproj", "{74F69ED2-C1AC-46D6-BF5F-816F185E1EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74F69ED2-C1AC-46D6-BF5F-816F185E1EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F69ED2-C1AC-46D6-BF5F-816F185E1EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F69ED2-C1AC-46D6-BF5F-816F185E1EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F69ED2-C1AC-46D6-BF5F-816F185E1EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25B20D8A-7E4A-4800-8FA6-1AE4273096E9}
+	EndGlobalSection
+EndGlobal
